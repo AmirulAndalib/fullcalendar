@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "dependencies": {
     "luxon": "^2.0.0",
-    "moment": "^2.29.1",
+    "moment": "^2.31.0",
     "moment-timezone": "^0.5.40",
     "preact": "^10.29.8",
     "xhr-mock": "^2.5.1"
@@ -22,7 +22,7 @@
     "fetch-mock": "^9.11.0",
     "fullcalendar": "workspace:*",
     "fullcalendar-w-react": "workspace:*",
-    "handlebars": "^4.7.7",
+    "handlebars": "^4.7.10",
     "retry-cli": "^0.7.0",
     "temporal-polyfill": "^1.0.1",
     "temporal-utils": "^1.0.1"

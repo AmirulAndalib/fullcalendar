@@ -14,10 +14,10 @@
   "devDependencies": {
     "@fullcalendar-scripts/standard": "workspace:*",
     "globby": "^13.1.2",
-    "handlebars": "^4.1.2",
+    "handlebars": "^4.7.10",
     "preact": "^10.29.8",
     "temporal-polyfill": "^1.0.1",
-    "vitest": "^4.0.16"
+    "vitest": "^5.0.5"
   },
   "scripts": {
     "build": "standard-scripts pkg:build",
