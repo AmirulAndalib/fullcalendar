@@ -17,7 +17,7 @@
     "@fullcalendar-scripts/standard": "workspace:*",
     "archiver": "^7.0.1",
     "globby": "^13.1.2",
-    "handlebars": "^4.1.2",
+    "handlebars": "^4.7.10",
     "temporal-polyfill": "^1.0.1"
   },
   "scripts": {
